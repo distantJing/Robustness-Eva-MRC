@@ -34,7 +34,7 @@ Our system consists of four main modules:
 * Adversarial Attack Methods
    * combines eight adversarial attack methods with five MRC datasets to generate new challenging adversarial testing sets, resulting in a total of 40 diverse adversarial testing sets.
    * provides a flexible interface to reconstruct new test sets that is interfered with by multiple attacks.
-   * The complete attack description along with corresponding case examples are available at [Adversarial Attack Document]().
+   * The complete attack description along with corresponding case examples are available at [Adversarial Attack Document](https://github.com/distantJing/Robustness-Eva-MRC/tree/main/Adversarial%20Attack%20Document).
 * Evaluation
    * evaluates the performance of the MRC models on both the original and adversarially perturbed datasets, and lists all results and supports illustrating each sample for a case study.
    * users can also download all kinds of test sets and upload their prediction files to the platform.
@@ -44,5 +44,5 @@ Our system consists of four main modules:
    * Mix Attack Analysis
   
 
-The screenshots and additional external material are available at [screenshots]().
+The screenshots and additional external material are available at [screenshots](https://github.com/distantJing/Robustness-Eva-MRC/tree/main/screenshots).
 
