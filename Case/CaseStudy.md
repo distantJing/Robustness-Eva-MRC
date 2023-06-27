@@ -49,7 +49,7 @@
 * __Opt__
 ![alt 属性文本](./IMG/rule3/Opt.jpg)
 * __ChatGpt__
-![alt 属性文本](./IMG/rule3/ChatGpt.jpg)
+![alt 属性文本](./IMG/rule3/Chatgpt.jpg)
 #### case analysis
   * These cases show the predictions of Llama, Opt, ChatGpt after the original text and after being attacked by addsent. The red highlight is the label for the model's predicted answer. We discovered that the LLaMA and OPT answered incorrectly after being attacked by Addsent, indicating poor robustness under adversarial conditions. These models often generate extraneous information, such as repeated prompts, supplementary content, or information unrelated to the query at hand. In contrast, ChatGPT demonstrates exceptional robustness, significantly outperforming all other models, and generating minimal irrelevant information.
 
