@@ -40,8 +40,8 @@ Our system consists of four main modules:
    * users can also download all kinds of test sets and upload their prediction files to the platform.
 * Analysis 
    * Visualization for Single Model & Model Comparison
-   * Case Studies for Single Model & Model Comparison
-   * Mix Attack Analysis
+   * Case Studies for Single Model & Model Comparison [case](https://github.com/distantJing/Robustness-Eva-MRC/tree/main/Case)
+   * Mix Attack Analysis [case](https://github.com/distantJing/Robustness-Eva-MRC/tree/main/Case)
   
 
 The screenshots and additional external material are available at [screenshots](https://github.com/distantJing/Robustness-Eva-MRC/tree/main/screenshots).
