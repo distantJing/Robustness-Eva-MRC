@@ -30,7 +30,8 @@ Our system consists of four main modules:
 * MRC Models
    * directly fetches the checkpoint files for MRC models directly from the HuggingFace repository. 
      * preloads five PLMs-based MRC models fine-tuned on the MRQA datasets: BERT, RoBERTa, ELECTRA, and DeBERTaV3, and UnifiedQA.
-     * utilizs three LLMs-based in a conversational format: LLaMA-7B, OPT-6.7B, and ChatGPT.
+     * utilizs three LLMs-based in a conversational format: [LLaMA-7B(alpaca lora)](https://huggingface.co/chainyo/alpaca-lora-7b), [OPT-6.7B(alpaca lora)](https://huggingface.co/rcshubhadeep/opt-6.7b-lora-alpaca
+), and ChatGPT(text-davinci-003).
 * Adversarial Attack Methods
    * combines eight adversarial attack methods with five MRC datasets to generate new challenging adversarial testing sets, resulting in a total of 40 diverse adversarial testing sets.
    * provides a flexible interface to reconstruct new test sets that is interfered with by multiple attacks.
